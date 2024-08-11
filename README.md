@@ -2,7 +2,7 @@
 
 Welcome to Astonish SelfCare Ecommerce Site! This is a simple ecommerce platform developed using PHP. The platform specializes in offering self-care products to users, providing a convenient shopping experience. Additionally, it features both client and admin panels for efficient management and control.
 
-Features
+## Features
 Client Panel:
 
 Browse through a wide range of self-care products.
