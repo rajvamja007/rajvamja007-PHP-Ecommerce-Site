@@ -9,16 +9,19 @@ Browse through a wide range of self-care products.
 Add products to the shopping cart and wishlist.
 Proceed to checkout for secure transactions.
 View order history and track order status.
+
 Admin Panel:
 
 Manage product inventory, including adding, editing, and deleting products.
 Monitor and fulfill orders placed by clients.
 Control user accounts and permissions.
-Technologies Used
+
+## Technologies Used
 PHP
 HTML/CSS/JavaScript
 SQL (for database management)
-Getting Started
+
+## Getting Started
 To set up the project locally, follow these steps:
 
 Prerequisites:
@@ -48,7 +51,9 @@ Database Name (Use this database name while creating database) : astonishdb
 Open your web browser.
 If you created a virtual host, use the domain name or subdomain you defined in the configuration. Otherwise, use http://localhost/astonish (or the appropriate path based on your setup).
 If everything is set up correctly, your PHP website from the astonish folder should now be running locally using XAMPP.
-Credit
+
+## Credit
 Minimlist : https://beminimalist.co
-Note
+
+## Note
 This site only for the study purpose.
